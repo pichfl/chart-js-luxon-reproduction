@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   let ENV = {
-    modulePrefix: 'chart-js-luxon-reporduction',
+    modulePrefix: 'chart-js-luxon-reproduction',
     environment,
     rootURL: '/',
     locationType: 'history',
